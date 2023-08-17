@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Calculadora</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" href="https://cdn-icons-png.flaticon.com/512/346/346399.png" type="image/png">
+</head>
+<body>
+  <div class="calculadora">
+    <h1>Calculadora</h1>
+    
+    <div class="entrada">
+      <input type="texto" id="operando1" placeholder="Operando 1">
+      <select id="operador">
+        <option value="+">+</option>
+        <option value="-">-</option>
+        <option value="*">*</option>
+        <option value="/">/</option>
+      </select>
+      <input type="texto" id="operando2" placeholder="Operando 2">
+    </div>
+
+    <div class="botones">
+      <button class="botonCalcular" onclick=calcular()>Calcular</button>
+      <button class="botonLimpiar" onclick=clearFields()>Limpiar</button>
+    </div>
+
+    <div class="resultado">
+      <label>Resultado:</label>
+      <input type="texto" id="display" readonly>
+    </div>
+
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
