@@ -68,35 +68,29 @@ Antes de lanzar el juego, es fundamental asegurarse de que todas las funcionalid
 
     * Ejemplos:✒️
 
-        1. 
-            * __Elección:__ Selecciono el botón con la imagen de la piedra.
-            * __Resultado Esperado:__ Se debe mostrar la imagen correspondiente a la piedra y el detalle por escrito de lo elegido.
-            * __Resultado Obtenido:__ Aparece correctamente la selección realizada y el detalle por escrito.   
+        1. __Elección:__ Selecciono el botón con la imagen de la piedra.    
+        __Resultado Esperado:__ Se debe mostrar la imagen correspondiente a la piedra y el detalle por escrito de lo elegido.    
+        __Resultado Obtenido:__ Aparece correctamente la selección realizada y el detalle por escrito.       
         </br>
-        2. 
-            * __Elección:__ Selecciono el botón con la imagen del papel.
-            * __Resultado Esperado:__ Se debe mostrar la imagen correspondiente al  papel y el detalle por escrito de lo elegido.
-            * __Resultado Obtenido:__ Aparece correctamente la selección realizada y el detalle por escrito.  
+        2. __Elección:__ Selecciono el botón con la imagen del papel.    
+        __Resultado Esperado:__ Se debe mostrar la imagen correspondiente al  papel y el detalle por escrito de lo elegido.    
+        __Resultado Obtenido:__ Aparece correctamente la selección realizada y el detalle por escrito.     
         </br>
-        3. 
-            * __Elección:__ Selecciono el botón con la imagen de la tijera.
-            * __Resultado Esperado:__ Se debe mostrar la imagen correspondiente a la tijera y el detalle por escrito de lo elegido.
-            * __Resultado Obtenido:__ Aparece correctamente la selección realizada y el detalle por escrito.   
+        3. __Elección:__ Selecciono el botón con la imagen de la tijera.    
+        __Resultado Esperado:__ Se debe mostrar la imagen correspondiente a la tijera y el detalle por escrito de lo elegido.    
+        __Resultado Obtenido:__ Aparece correctamente la selección realizada y el detalle por escrito.   
         </br>
-        4. 
-            * __Elección:__ Selecciono el botón con la imagen del papel.
-            * __Resultado Esperado:__ Se debe mostrar la imagen correspondiente al papel y el detalle por escrito de lo elegido.
-            * __Resultado Obtenido:__ Aparece correctamente la selección realizada y el detalle por escrito.   
+        4. __Elección:__ Selecciono el botón con la imagen del papel.    
+        __Resultado Esperado:__ Se debe mostrar la imagen correspondiente al papel y el detalle por escrito de lo elegido.    
+        __Resultado Obtenido:__ Aparece correctamente la selección realizada y el detalle por escrito.   
         </br>        
-        5. 
-            * __Elección:__ Selecciono el botón con la imagen de la tijera.
-            * __Resultado Esperado:__ Se debe mostrar la imagen correspondiente a la tijera y el detalle por escrito de lo elegido.
-            * __Resultado Obtenido:__ Aparece correctamente la selección realizada y el detalle por escrito.       
-        </br>
-        6. 
-            * __Elección:__ Selecciono el botón con la imagen de la piedra.
-            * __Resultado Esperado:__ Se debe mostrar la imagen correspondiente a la piedra y el detalle por escrito de lo elegido.
-            * __Resultado Obtenido:__ Aparece correctamente la selección realizada y el detalle por escrito.           
+        5. __Elección:__ Selecciono el botón con la imagen de la tijera.   
+        __Resultado Esperado:__ Se debe mostrar la imagen correspondiente a la tijera y el detalle por escrito de lo elegido.   
+        __Resultado Obtenido:__ Aparece correctamente la selección realizada y el detalle por escrito.       
+        </br>   
+        6. __Elección:__ Selecciono el botón con la imagen de la piedra.   
+        __Resultado Esperado:__ Se debe mostrar la imagen correspondiente a la piedra y el detalle por escrito de lo elegido.   
+        __Resultado Obtenido:__ Aparece correctamente la selección realizada y el detalle por escrito.              
          
 ### 4. Puntuación y Resultados:
 
@@ -116,68 +110,56 @@ _Recodatorios:_
 
    * Ejemplo1:✒️
 
-        1. 
-            * __Elección:__ Selecciono el botón con la imagen de la piedra.
-            * __Resultado Esperado:__ Según la elección de la computadora se debe informar si hay un ganador o un empate.
-            * __Resultado Obtenido:__ La computadora elige piedra y por pantalla se informa correctamente de un empate, no hay cambios en el marcador (0-0).   
+        1. __Elección:__ Selecciono el botón con la imagen de la piedra.   
+        __Resultado Esperado:__ Según la elección de la computadora se debe informar si hay un ganador o un empate.   
+        __Resultado Obtenido:__ La computadora elige piedra y por pantalla se informa correctamente de un empate, no hay cambios en el marcador (0-0).   
         </br>
-        2. 
-            * __Elección:__ Selecciono el botón con la imagen del papel.
-            * __Resultado Esperado:__ Según la elección de la computadora se debe informar si hay un ganador o un empate.
-            * __Resultado Obtenido:__ La computadora elige piedra y por pantalla se informa correctamente la victoria del usuario, sumando el punto correspondiende en el marcador (1-0).   
+        2. __Elección:__ Selecciono el botón con la imagen del papel.   
+        __Resultado Esperado:__ Según la elección de la computadora se debe informar si hay un ganador o un empate.   
+        __Resultado Obtenido:__ La computadora elige piedra y por pantalla se informa correctamente la victoria del usuario, sumando el punto correspondiende en el marcador (1-0).    
         </br>
-        3. 
-            * __Elección:__ Selecciono el botón con la imagen de la tijera.
-            * __Resultado Esperado:__ Según la elección de la computadora se debe informar si hay un ganador o un empate.
-            * __Resultado Obtenido:__ La computadora elige papel y por pantalla se informa correctamente la victoria del usuario, sumando el punto correspondiende en el marcador (2-0).      
+        3. __Elección:__ Selecciono el botón con la imagen de la tijera.    
+        __Resultado Esperado:__ Según la elección de la computadora se debe informar si hay un ganador o un empate.    
+        __Resultado Obtenido:__ La computadora elige papel y por pantalla se informa correctamente la victoria del usuario, sumando el punto correspondiende en el marcador (2-0).        
         </br>
-        4. 
-            * __Elección:__ Selecciono el botón con la imagen del papel.
-            * __Resultado Esperado:__ Según la elección de la computadora se debe informar si hay un ganador o un empate.
-            * __Resultado Obtenido:__ La computadora elige tijera y por pantalla se informa correctamente la victoria de la computadora, sumando el punto correspondiende en el marcador (2-1).      
+        4. __Elección:__ Selecciono el botón con la imagen del papel.    
+        __Resultado Esperado:__ Según la elección de la computadora se debe informar si hay un ganador o un empate.    
+        __Resultado Obtenido:__ La computadora elige tijera y por pantalla se informa correctamente la victoria de la computadora, sumando el punto correspondiende en el marcador (2-1).         
         </br>        
-        5. 
-            * __Elección:__ Selecciono el botón con la imagen de la tijera.
-            * __Resultado Esperado:__ Según la elección de la computadora se debe informar si hay un ganador o un empate.
-            * __Resultado Obtenido:__ La computadora elige piedra y por pantalla se informa correctamente la victoria de la computadora, sumando el punto correspondiende en el marcador (2-2).             
+        5. __Elección:__ Selecciono el botón con la imagen de la tijera.   
+        __Resultado Esperado:__ Según la elección de la computadora se debe informar si hay un ganador o un empate.    
+        __Resultado Obtenido:__ La computadora elige piedra y por pantalla se informa correctamente la victoria de la computadora, sumando el punto correspondiende en el marcador (2-2).                 
         </br>
-        6. 
-            * __Elección:__ Selecciono el botón con la imagen de la piedra.
-            * __Resultado Esperado:__ Según la elección de la computadora se debe informar si hay un ganador o un empate.
-            * __Resultado Obtenido:__ La computadora elige tijera y por pantalla se informa correctamente la victoria del usuario, sumando el punto correspondiende en el marcador (3-2) y la finalización de la partida dando como ganador al usuario a través del mensaje de victoria correspondiente.     
+        6. __Elección:__ Selecciono el botón con la imagen de la piedra.    
+        __Resultado Esperado:__ Según la elección de la computadora se debe informar si hay un ganador o un empate.    
+        __Resultado Obtenido:__ La computadora elige tijera y por pantalla se informa correctamente la victoria del usuario, sumando el punto correspondiende en el marcador (3-2) y la finalización de la partida dando como ganador al usuario a través del mensaje de victoria correspondiente.       
         </br>
 
    * Ejemplo2:✒️
 
-        1. 
-            * __Elección:__ Selecciono el botón con la imagen del papel.
-            * __Resultado Esperado:__ Según la elección de la computadora se debe informar si hay un ganador o un empate.
-            * __Resultado Obtenido:__ La computadora elige piedra y por pantalla se informa correctamente la victoria del usuario, sumando el punto correspondiende en el marcador (1-0).   
+        1. __Elección:__ Selecciono el botón con la imagen del papel.    
+        __Resultado Esperado:__ Según la elección de la computadora se debe informar si hay un ganador o un empate.    
+        __Resultado Obtenido:__ La computadora elige piedra y por pantalla se informa correctamente la victoria del usuario, sumando el punto correspondiende en el marcador (1-0).    
         </br>
-        2. 
-            * __Elección:__ Selecciono el botón con la imagen del papel.
-            * __Resultado Esperado:__ Según la elección de la computadora se debe informar si hay un ganador o un empate.
-            * __Resultado Obtenido:__ La computadora elige papel y por pantalla se informa correctamente de un empate, no hay cambios en el marcador (1-0).   
+        2. __Elección:__ Selecciono el botón con la imagen del papel.    
+        __Resultado Esperado:__ Según la elección de la computadora se debe informar si hay un ganador o un empate.    
+        __Resultado Obtenido:__ La computadora elige papel y por pantalla se informa correctamente de un empate, no hay cambios en el marcador (1-0).      
         </br>
-        3. 
-            * __Elección:__ Selecciono el botón con la imagen de la tijera.
-            * __Resultado Esperado:__ Según la elección de la computadora se debe informar si hay un ganador o un empate.
-            * __Resultado Obtenido:__ La computadora elige piedra y por pantalla se informa correctamente la victoria de la computadora, sumando el punto correspondiende en el marcador (1-1).      
+        3. __Elección:__ Selecciono el botón con la imagen de la tijera.    
+        __Resultado Esperado:__ Según la elección de la computadora se debe informar si hay un ganador o un empate.    
+        __Resultado Obtenido:__ La computadora elige piedra y por pantalla se informa correctamente la victoria de la computadora, sumando el punto correspondiende en el marcador (1-1).        
         </br>
-        4. 
-            * __Elección:__ Selecciono el botón con la imagen de la piedra.
-            * __Resultado Esperado:__ Según la elección de la computadora se debe informar si hay un ganador o un empate.
-            * __Resultado Obtenido:__ La computadora elige piedra y por pantalla se informa correctamente de un empate, no hay cambios en el marcador (1-1).      
+        4. __Elección:__ Selecciono el botón con la imagen de la piedra.    
+        __Resultado Esperado:__ Según la elección de la computadora se debe informar si hay un ganador o un empate.    
+        __Resultado Obtenido:__ La computadora elige piedra y por pantalla se informa correctamente de un empate, no hay cambios en el marcador (1-1).       
         </br>        
-        5. 
-            * __Elección:__ Selecciono el botón con la imagen de la tijera.
-            * __Resultado Esperado:__ Según la elección de la computadora se debe informar si hay un ganador o un empate.
-            * __Resultado Obtenido:__ La computadora elige piedra y por pantalla se informa correctamente la victoria de la computadora, sumando el punto correspondiende en el marcador (1-2).             
+        5. __Elección:__ Selecciono el botón con la imagen de la tijera.   
+        __Resultado Esperado:__ Según la elección de la computadora se debe informar si hay un ganador o un empate.    
+        __Resultado Obtenido:__ La computadora elige piedra y por pantalla se informa correctamente la victoria de la computadora, sumando el punto correspondiende en el marcador (1-2).               
         </br>
-        6. 
-            * __Elección:__ Selecciono el botón con la imagen de la piedra.
-            * __Resultado Esperado:__ Según la elección de la computadora se debe informar si hay un ganador o un empate.
-            * __Resultado Obtenido:__ La computadora elige papel y por pantalla se informa correctamente la victoria de la computadora, sumando el punto correspondiende en el marcador (1-3) y la finalización de la partida dando como ganadora a la computadora a través del mensaje de victoria correspondiente.     
+        6. __Elección:__ Selecciono el botón con la imagen de la piedra.    
+        __Resultado Esperado:__ Según la elección de la computadora se debe informar si hay un ganador o un empate.    
+        __Resultado Obtenido:__ La computadora elige papel y por pantalla se informa correctamente la victoria de la computadora, sumando el punto correspondiende en el marcador (1-3) y la finalización de la partida dando como ganadora a la computadora a través del mensaje de victoria correspondiente.         
          
 ### 5. Volver a jugar
 
